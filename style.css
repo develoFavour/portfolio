@@ -222,6 +222,10 @@ nav {
 .icon:hover {
 	color: var(--first-color);
 }
+.pl-2{
+padding-left: 1rem;
+    text-align: center;
+}
 
 /* ----- FEATURED IMAGE BOX ----- */
 .featured-image {
